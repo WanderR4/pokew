@@ -3,7 +3,7 @@ body{
     background-color: #cccccc;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    height: 100%;
+    weight: 100%;
 }
 h1{
     color: rgb(255, 255, 255);
