@@ -1,2 +1,2 @@
 # pokew
-Trabalho de Html e Css do grupo Wander,Fernanda e Giselo
+Trabalho de Html e Css do grupo Wander,Fernanda e Giseli
