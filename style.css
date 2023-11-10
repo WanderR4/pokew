@@ -1,9 +1,8 @@
 body{
-    background-image: url("a.jpg")  ;
-    background-color: #cccccc;
+    background-image: url("a.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
-    weight: 100%;
+    
 }
 h1{
     color: rgb(255, 255, 255);
